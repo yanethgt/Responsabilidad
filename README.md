@@ -1,0 +1,2 @@
+# Responsabilidad
+cadena de responsabilidad
